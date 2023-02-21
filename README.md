@@ -1,4 +1,4 @@
 # crappy-flappy-luigio
 a crappy flappy bird clone
 
-[Demo](crappy_flappy_luigio.mp4)
+![](crappy-flappy-luigio.gif)
